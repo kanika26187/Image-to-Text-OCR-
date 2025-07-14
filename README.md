@@ -19,4 +19,4 @@ Tesseract OCR (pytesseract) is used to recognize and extract text from the image
 The extracted text is printed to the console.
 
 # 📂 Input
-Make sure to place your target image (e.g., test.png) in the correct path, or update the file path accordingly.
+Make sure to place your target image (e.g., test2.png) in the correct path, or update the file path accordingly.
